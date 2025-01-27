@@ -1,0 +1,1 @@
+INVENTORY MANAGEMENT SYSTEM-The project tackles one of the fundamental issues in operating system of process synchronization. The solution to classic PRODUCER- CONSUMER is elaborated with efficient modifications in the form of inventory management system.
